@@ -1,0 +1,5 @@
+__pycache__/
+requirements.txt
+setup.sh
+venv/
+tmp/
