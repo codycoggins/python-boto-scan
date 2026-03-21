@@ -2,6 +2,8 @@
 
 Scan a GitHub org (or user account) to find repositories that use **boto3** and flag any running on **Python 3.9 or earlier** — the last version boto3 will support before dropping it in April 2026.
 
+This can also serve as a template for finding other python/dependency issues.
+
 ## Background
 
 boto3 is dropping Python 3.9 support in April 2026. If your org has many repos, manually checking each one is tedious. These scripts automate the audit:
